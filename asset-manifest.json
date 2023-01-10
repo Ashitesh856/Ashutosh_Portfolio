@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ashutosh_Portfolio/static/css/main.33754b56.css",
+    "main.js": "/Ashutosh_Portfolio/static/js/main.358ae1d4.js",
+    "static/media/proj4.png": "/Ashutosh_Portfolio/static/media/proj4.a843c129eba0fca58242.png",
+    "static/media/proj2.png": "/Ashutosh_Portfolio/static/media/proj2.744e3a8e66d60e3a5f42.png",
+    "static/media/proj1.png": "/Ashutosh_Portfolio/static/media/proj1.63ef3e95b72c76fde96e.png",
+    "static/media/proj5.png": "/Ashutosh_Portfolio/static/media/proj5.78a51cbb2c21286ff5f1.png",
+    "static/media/proj3.png": "/Ashutosh_Portfolio/static/media/proj3.6a70b6c53dd9cc8564fb.png",
+    "static/media/aboutmepic.png": "/Ashutosh_Portfolio/static/media/aboutmepic.533142aa4d459afe5c06.png",
+    "static/media/cv.pdf": "/Ashutosh_Portfolio/static/media/cv.06bf6b4c2d02dabe4242.pdf",
+    "static/media/bg1.png": "/Ashutosh_Portfolio/static/media/bg1.96f6d2863007afb60f1e.png",
+    "static/media/facepic.png": "/Ashutosh_Portfolio/static/media/facepic.badae0d6d4c61981cf6f.png",
+    "index.html": "/Ashutosh_Portfolio/index.html",
+    "main.33754b56.css.map": "/Ashutosh_Portfolio/static/css/main.33754b56.css.map",
+    "main.358ae1d4.js.map": "/Ashutosh_Portfolio/static/js/main.358ae1d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33754b56.css",
+    "static/js/main.358ae1d4.js"
+  ]
+}
